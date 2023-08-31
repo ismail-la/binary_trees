@@ -5,7 +5,7 @@
  *
  * @tree: Pointer to tree to traverse.
  * @func: Pointer to a function to call for each node.
- * 
+ *
  * If tree or func is NULL, do nothing.
  */
 
